@@ -42,3 +42,7 @@ increaseAndPrint(0)
 - 위 코드처럼 성공 할 때는 ```resolve```를, 실패 할 때는 ```reject```을 호출해주면 된다.
 - ```resolve```는 성공했을 때 결과 값을 설정해주는 것이고 ```reject```는 실패했을 때 오류를 설정해주는 것이다.
 - ```then```에서 받은 파라미터는 ```resolve```이고 ```catch```에서 받은 파라미터는 ```reject```이다.
+<br/>
+
+## 출처
+- [vlpt Promise](https://learnjs.vlpt.us/async/01-promise.html, "velog")
