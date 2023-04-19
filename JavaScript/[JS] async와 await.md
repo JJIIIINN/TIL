@@ -69,6 +69,6 @@ p2()
 <br/>
 
 ## 출처
-- [동기, 비동기란? (+Promise, async/await 개념)](https://velog.io/@khy226/%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%9E%80-Promise-asyncawait-%EA%B0%9C%EB%85%90, "")
-- [[javascript] async와 await의 개념과 사용법](https://velog.io/@khyup0629/javascript-async%EC%99%80-await%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%9A%A9%EB%B2%95, "")
-- [자바스크립트 Async/Await 개념 & 문법 정복](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC-async-await, "")
+- [동기, 비동기란? (+Promise, async/await 개념)](https://velog.io/@khy226/%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%9E%80-Promise-asyncawait-%EA%B0%9C%EB%85%90, "velog")
+- [[javascript] async와 await의 개념과 사용법](https://velog.io/@khyup0629/javascript-async%EC%99%80-await%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%9A%A9%EB%B2%95, "velog")
+- [자바스크립트 Async/Await 개념 & 문법 정복](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC-async-await, "web")
