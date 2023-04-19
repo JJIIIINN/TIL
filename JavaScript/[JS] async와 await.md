@@ -13,7 +13,7 @@ async와 await은 이를 기존의 방법들보다 더 쉽고 간편하게 동�
 <br/>
 
 ## ❓ Promise가 뭐야?
-> [Promise에 대해 먼저 알아보기](, "Promise")
+> [Promise에 대해 먼저 알아보기](https://github.com/JJIIIINN/TIL/blob/main/JavaScript/%5BJS%5D%20Promise.md#promise, "Promise")
 <br/>
 
 ## ❓ async와 await을 쓰면 어떤 게 좋을까?
