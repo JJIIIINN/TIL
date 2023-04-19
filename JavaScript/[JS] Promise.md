@@ -45,4 +45,4 @@ increaseAndPrint(0)
 <br/>
 
 ## 출처
-- [vlpt Promise](https://learnjs.vlpt.us/async/01-promise.html, "velog")
+- [vlpt Promise](https://learnjs.vlpt.us/async/01-promise.html)
