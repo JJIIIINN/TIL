@@ -10,4 +10,4 @@
 `justify-content`, `align-items`는 정렬하고 싶은 요소의 부모 요소에 `width`와 `height`를 기준으로 정렬되기 때문에 부모 요소에 `width`와 `height`를 명시해준 후 `justify-content`, `align-items`를 사용한다.
 
 ### ❗️ 그 외 방법
-부모 요소에 `display` 속성이 없거나 부모 요소에 써야 하는 `justify-content`, `align-items`을 자식 요소에 썼으면 이를 부모 요소로 옮겨주면된다.
+부모 요소에 `display` 속성이 없거나 부모 요소에 써야 하는 `justify-content`, `align-items`을 자식 요소에 썼으면 이를 부모 요소로 옮겨주면 된다.
